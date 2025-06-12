@@ -1,6 +1,6 @@
 # 📚 CryptoBook - Криптовалути за начинаещи
 
-![ Logo](icon.png)
+![ Logo](main.png)
 
 ## 📋 Описание
 
